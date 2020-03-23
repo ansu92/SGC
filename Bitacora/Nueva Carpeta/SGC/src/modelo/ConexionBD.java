@@ -9,6 +9,7 @@ import java.util.logging.Logger;
 
 public class ConexionBD {
     /*Aqui Declaramoslas variables y las inicializamos.*/
+    //revisando github 
     private final String base = "proyecto";
     private final String user = "postgres";
     final String clave = "1234";
